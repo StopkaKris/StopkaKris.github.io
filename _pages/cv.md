@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Krzysztof_Stopka_CV.pdf](https://github.com/StopkaKris/StopkaKris.github.io/files/6580816/Krzysztof_Stopka_CV.pdf)
-
 
 <iframe src="https://github.com/StopkaKris/StopkaKris.github.io/files/6580816/Krzysztof_Stopka_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 You can download a PDF copy of my CV [here](https://github.com/StopkaKris/StopkaKris.github.io/files/6580816/Krzysztof_Stopka_CV.pdf).
