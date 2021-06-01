@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 Welcome! My name is Krzysztof (Kris) Stopka and I am a Postdoctoral researcher at Purdue University. More to come later... !
+
+This is my personal page.
