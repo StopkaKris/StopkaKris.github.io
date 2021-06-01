@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Krzysztof S. Stopka"
   avatar           : "profile.png"
-  bio              : "Post-doctoral Research Fellow"
+  bio              : "Postdoctoral Research Fellow"
   location         : "Chicago, IL"
   employer         :
   pubmed           :
@@ -105,9 +105,10 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "stopkakrzysztof"
   orcid            : "https://orcid.org/0000-0001-9194-5314"
   pinterest        :
+  publons          : "https://publons.com/researcher/3069523/krzysztof-stopka/"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
