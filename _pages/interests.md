@@ -6,4 +6,5 @@ author_profile: true
 ---
 
 
-More to come soon! :)
+More to come soon!
+

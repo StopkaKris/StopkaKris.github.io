@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 
+  0. [Integrated computational materials engineering workflows for microstructure-sensitive fatigue of advanced alloys](http://hdl.handle.net/1853/64725)
+
+     <b>K. S. Stopka</b>. Integrated computational materials engineering workflows for microstructure-sensitive fatigue of advanced alloys. (Georgia Institute of Technology, Atlanta, 2021)
 
   0. [PRISMS-Fatigue computational framework for fatigue analysis in polycrystalline metals and alloys](https://www.nature.com/articles/s41524-021-00506-8)
 

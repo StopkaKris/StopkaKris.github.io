@@ -9,7 +9,7 @@ author_profile: true
 
   0. <span style="color:#9CD6D8">Effects of surface roughness on microstructure-sensitive computations of fatigue crack formation driving force in duplex Ti-6Al-4V and Al 7075-T6</span>
 
-     <b>K. S. Stopka</b> and D. L. McDowell. Presented at [The Minerals, Metals & Materials Society (TMS) 2020](https://www.tms.org/AnnualMeeting/TMS2020) in San Diego on February 26<sup>th</sup>, 2020.
+     <b>K. S. Stopka</b> and D. L. McDowell. Presented at [The Minerals, Metals & Materials Society (TMS) 2020](https://www.tms.org/AnnualMeeting/TMS2020) in San Diego, CA on February 26<sup>th</sup>, 2020.
 
   0. <span style="color:#9CD6D8">Microstructure-Sensitive Computational Estimates of Driving Forces for Surface vs. Subsurface Fatigue Crack Formation in Duplex Ti-6Al-4V and Al 7075-T6</span>
 
