@@ -31,4 +31,4 @@ I completed the [Tech to Teaching](https://www.ctl.gatech.edu/content/tech-teach
   
 # Teaching Practicum at Georgia Tech
 
-* As part of the Teaching Practicum in the [Woodruff School of Mechanical Engineering](http://me.gatech.edu/) at Gerogia Tech, I worked with Dr. Richard Neu to teach the graduate course ME 7774: Fatigue of Materials and Structures during the Spring of 2019. I delivered three lectures, held office hours, graded homeworks, and proctored exams.
+* As part of the Teaching Practicum in the [Woodruff School of Mechanical Engineering](http://me.gatech.edu/) at Georgia Tech, I worked with Dr. Richard Neu to teach the graduate course ME 7774: Fatigue of Materials and Structures during the Spring of 2019. I delivered three lectures, held office hours, graded homework assignments, and proctored exams.
