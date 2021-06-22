@@ -5,7 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
+  0. <span style="color:#9CD6D8">Reconstruction of Microstructure and Defects in an Alpha + Beta Processed Ti-6Al-4V Plate Product Using High-energy X-ray Diffraction Microscopy and DREAM.3D</span>
 
+     <b>K. S. Stopka</b>, J.S. Park, H. Sharma, A. C. Chuang, P. Kenesei, Y. Gao. et al. Presented virtually at the [5th International Congress on 3D Materials Science (3DMS) 2021](https://www.tms.org/3dms2021) on July 1<sup>st</sup>, 2021.
 
   0. <span style="color:#9CD6D8">Effects of surface roughness on microstructure-sensitive computations of fatigue crack formation driving force in duplex Ti-6Al-4V and Al 7075-T6</span>
 

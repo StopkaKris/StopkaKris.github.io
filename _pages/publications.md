@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+  0. [Effects of boundary conditions on microstructure-sensitive fatigue crystal plasticity analysis](https://doi.org/10.1007/s40192-021-00219-2)
+
+     <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Effects of boundary conditions on microstructure-sensitive fatigue crystal plasticity analysis. <i>Integr. Mater. Manuf. Innov.</i> (2021)
 
   0. [Integrated computational materials engineering workflows for microstructure-sensitive fatigue of advanced alloys](http://hdl.handle.net/1853/64725)
 
