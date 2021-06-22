@@ -12,4 +12,4 @@ Welcome! My name is Krzysztof (Kris) Stopka, and I am a Postdoctoral Researcher 
 
 I am interested in the interface between materials science, crystal plasticity, computational mechanics, fatigue and fracture, high-energy x-ray diffraction microscopy, and data science and analytics workflows. I defended my PhD dissertation entitled [Integrated Computational Materials Engineering Workflows for Microstructure-sensitive Fatigue of Advanced Alloys](http://hdl.handle.net/1853/64725) in March 2021 under the advisement of [Dr. David L. McDowell](http://me.gatech.edu/faculty/mcdowell) at the [Georgia Institute of Technology](https://www.gatech.edu/). A strong passion of mine outside of research is mentorship, especially for younger students just getting started in their college/academic careers. My long-term goal is to pursue a career in academia.
 
-If you would like to know more, I can be reached at [stopka.kris@gmail.com](stopka.kris@gmail.com).
+If you would like to know more, I can be reached at [kstopka@purdue.edu](mailto:kstopka@purdue.edu) or [stopka.kris@gmail.com](mailto:stopka.kris@gmail.com).
