@@ -1,10 +1,18 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Conference presentations and talks"
 permalink: /presentations/
 author_profile: true
 ---
 
+  0. <span style="color:#9CD6D8">Micromechanical Modeling of Porosity Defects in Additively Manufactured Alloys</span>
+
+     <b>K. S. Stopka</b> and M. D. Sangid. Presented at [The Minerals, Metals & Materials Society (TMS) 2022](https://www.tms.org/AnnualMeeting/TMS2022) in Anaheim, CA on March 2<sup>nd</sup>, 2022.
+
+  0. <span style="color:#9CD6D8">Microstructure Effects on the Extreme Value Fatigue Response of FCC Metals and Alloys: Effects of Sample Size and Grain Neighborhood</span>
+
+     <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Presented at [TMS 2022](https://www.tms.org/AnnualMeeting/TMS2022) in Anaheim, CA on March 1<sup>st</sup>, 2022.
+	 
   0. <span style="color:#9CD6D8">PRISMS-Fatigue: Overview and Case Studies</span>
 
      <b>K. S. Stopka</b>, M. Yaghoobi, A. Lakshmanan, V. Sundararaghavan, J. E. Allison, and D. L. McDowell. Presented virtually at the [Annual PRISMS Center Workshop](http://www.prisms-center.org/#/home) on August 3<sup>rd</sup>, 2021.
@@ -15,7 +23,7 @@ author_profile: true
 
   0. <span style="color:#9CD6D8">Effects of surface roughness on microstructure-sensitive computations of fatigue crack formation driving force in duplex Ti-6Al-4V and Al 7075-T6</span>
 
-     <b>K. S. Stopka</b> and D. L. McDowell. Presented at [The Minerals, Metals & Materials Society (TMS) 2020](https://www.tms.org/AnnualMeeting/TMS2020) in San Diego, CA on February 26<sup>th</sup>, 2020.
+     <b>K. S. Stopka</b> and D. L. McDowell. Presented at [TMS 2020](https://www.tms.org/AnnualMeeting/TMS2020) in San Diego, CA on February 26<sup>th</sup>, 2020.
 
   0. <span style="color:#9CD6D8">Microstructure-Sensitive Computational Estimates of Driving Forces for Surface vs. Subsurface Fatigue Crack Formation in Duplex Ti-6Al-4V and Al 7075-T6</span>
 
@@ -31,5 +39,5 @@ author_profile: true
 
   0. <span style="color:#9CD6D8">Computational Statistics of Formation and Early Growth of Microstructurally Small Cracks in Ti-6Al-4V</span>
 
-     <b>K. S. Stopka</b> and D. L. McDowell. Presented at MS&T 2018 in Columbus, OH on October 17<sup>th</sup>, 2018.
+     <b>K. S. Stopka</b> and D. L. McDowell. Presented at [MS&T 2018](https://www.matscitech.org/) in Columbus, OH on October 17<sup>th</sup>, 2018.
 {: reversed="reversed"}
