@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-  0. <span style="color:#9CD6D8">Micromechanical Modeling of Porosity Defects in Additively Manufactured Alloys</span>
+  0. <span style="color:#9CD6D8">Micromechanical Modeling of Porosity Defects in Additively Manufactured Alloys</span> 
 
      <b>K. S. Stopka</b> and M. D. Sangid. Presented at [The Minerals, Metals & Materials Society (TMS) 2022](https://www.tms.org/AnnualMeeting/TMS2022) in Anaheim, CA on March 2<sup>nd</sup>, 2022.
 
