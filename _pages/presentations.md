@@ -5,6 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
+  0. <span style="color:#9CD6D8">Effects of boundary conditions on microstructure-sensitive fatigue crystal plasticity analysis</span> 
+
+     <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Presented at [The 6th World Congress on Integrated Computational Materials Engineering (ICME 2022)](https://www.tms.org/icme2022) in Incline Village, NV on April 25<sup>th</sup>, 2022.
+
   0. <span style="color:#9CD6D8">Micromechanical Modeling of Porosity Defects in Additively Manufactured Alloys</span> 
 
      <b>K. S. Stopka</b> and M. D. Sangid. Presented at [The Minerals, Metals & Materials Society (TMS) 2022](https://www.tms.org/AnnualMeeting/TMS2022) in Anaheim, CA on March 2<sup>nd</sup>, 2022.

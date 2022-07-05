@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+  0. [Crystal plasticity finite element modeling of grain size and morphology effects on yield strength and extreme value fatigue response](https://doi.org/10.1016/j.jmrt.2022.06.075)
+
+     A. Lakshmanan, M. Yaghoobi, <b>K. S. Stopka</b>, and V. Sundararaghavan. Crystal plasticity finite element modeling of grain size and morphology effects on yield strength and extreme value fatigue response. <i>J. Mater. Res. Technol.</i>, <b>19</b>, 3337-3354 (2022)
+
   0. [Simulated effects of sample size and grain neighborhood on the modeling of extreme value fatigue response](https://doi.org/10.1016/j.actamat.2021.117524)
 
      <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Simulated effects of sample size and grain neighborhood on the modeling of extreme value fatigue response. <i>Acta Mater.</i>, <b>224</b>, 117524 (2022)
