@@ -5,6 +5,14 @@ permalink: /presentations/
 author_profile: true
 ---
 
+  0. <b>INVITED:</b> <span style="color:#9CD6D8">Modeling Fatigue Using Digital Microstructures: Applications of DREAM.3D</span> 
+
+     <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, D. L. McDowell, and M. D. Sangid. Presented at the [2022 Workshop on Methods for 3D Microstructure Studies](http://mimp.materials.cmu.edu/rohrer/3DMS_workshop_22/) in Pittsburg, PA on August 17<sup>th</sup>, 2022.
+
+  0. <span style="color:#9CD6D8">Microstructure-Sensitive Modeling of Surface Roughness and Notch Effects on Extreme Value Fatigue Response</span> 
+
+     <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Presented virtually at the [Annual PRISMS Center Workshop](http://www.prisms-center.org/#/home) on August 12<sup>th</sup>, 2022.
+
   0. <span style="color:#9CD6D8">Effects of boundary conditions on microstructure-sensitive fatigue crystal plasticity analysis</span> 
 
      <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Presented at [The 6th World Congress on Integrated Computational Materials Engineering (ICME 2022)](https://www.tms.org/icme2022) in Incline Village, NV on April 25<sup>th</sup>, 2022.
