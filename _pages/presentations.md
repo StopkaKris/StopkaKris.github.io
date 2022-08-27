@@ -7,7 +7,7 @@ author_profile: true
 
   0. <b>INVITED:</b> <span style="color:#9CD6D8">Modeling Fatigue Using Digital Microstructures: Applications of DREAM.3D</span> 
 
-     <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, D. L. McDowell, and M. D. Sangid. Presented at the [2022 Workshop on Methods for 3D Microstructure Studies](http://mimp.materials.cmu.edu/rohrer/3DMS_workshop_22/) in Pittsburg, PA on August 17<sup>th</sup>, 2022.
+     <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, D. L. McDowell, and M. D. Sangid. Presented at the [2022 Workshop on Methods for 3D Microstructure Studies](http://mimp.materials.cmu.edu/rohrer/3DMS_workshop_22/) in Pittsburgh, PA on August 17<sup>th</sup>, 2022.
 
   0. <span style="color:#9CD6D8">Microstructure-Sensitive Modeling of Surface Roughness and Notch Effects on Extreme Value Fatigue Response</span> 
 
