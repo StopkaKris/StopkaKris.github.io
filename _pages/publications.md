@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+  0. [Microstructure-sensitive modeling of surface roughness and notch effects on extreme value fatigue response](https://doi.org/10.1016/j.ijfatigue.2022.107295)
+
+     <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Microstructure-sensitive modeling of surface roughness and notch effects on extreme value fatigue response. <i>Int. J. Fatigue</i>, <b>166</b>, 107295 (2023).
+
   0. [Crystal plasticity finite element modeling of grain size and morphology effects on yield strength and extreme value fatigue response](https://doi.org/10.1016/j.jmrt.2022.06.075)
 
      A. Lakshmanan, M. Yaghoobi, <b>K. S. Stopka</b>, and V. Sundararaghavan. Crystal plasticity finite element modeling of grain size and morphology effects on yield strength and extreme value fatigue response. <i>J. Mater. Res. Technol.</i>, <b>19</b>, 3337-3354 (2022)
