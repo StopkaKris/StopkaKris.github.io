@@ -17,7 +17,7 @@ author_profile: true
 
      <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, D. L. McDowell, and M. D. Sangid. Presented at the [2022 Workshop on Methods for 3D Microstructure Studies](http://mimp.materials.cmu.edu/rohrer/3DMS_workshop_22/) in Pittsburgh, PA on August 17<sup>th</sup>, 2022.
 
-  0. <span style="color:#9CD6D8">Microstructure-sensitive modeling of surface roughness and notch fffects on extreme value fatigue response</span> 
+  0. <span style="color:#9CD6D8">Microstructure-sensitive modeling of surface roughness and notch effects on extreme value fatigue response</span> 
 
      <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Presented virtually at the [Annual PRISMS Center Workshop](http://www.prisms-center.org/#/home) on August 12<sup>th</sup>, 2022.
 
