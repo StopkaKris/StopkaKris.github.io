@@ -7,11 +7,11 @@ author_profile: true
 
   0. <b>INVITED:</b> <span style="color:#9CD6D8">Micromechanical modeling of porosity defects in additively manufactured alloys</span> 
 
-     <b>K. S. Stopka</b>, A. Desrosiers, T. Nicodemus, A. Andreaco, and M. D. Sangid. Presented at [2022 International Conference on Additive Manufacturing](https://amcoe.org/event/icam2022/) in Orlando, FL on November 3<sup>rd</sup>, 2022.
+     <b>K. S. Stopka</b> and M. D. Sangid. Presented at the [2022 International Conference on Additive Manufacturing](https://amcoe.org/event/icam2022/) in Orlando, FL on November 3<sup>rd</sup>, 2022.
 	 
   0. <span style="color:#9CD6D8">Progress towards a standard for rapid qualification of additively manufactured materials based on defect structures</span> 
 
-     <b>K. S. Stopka</b> and M. D. Sangid. Presented at [ICAM 2022](https://amcoe.org/event/icam2022/) in Orlando, FL on November 2<sup>nd</sup>, 2022.
+     <b>K. S. Stopka</b>, A. Desrosiers, T. Nicodemus, A. Andreaco, and M. D. Sangid. Presented at [ICAM 2022](https://amcoe.org/event/icam2022/) in Orlando, FL on November 2<sup>nd</sup>, 2022.
 	 
   0. <b>INVITED:</b> <span style="color:#9CD6D8">Modeling fatigue using digital microstructures: applications of DREAM.3D</span> 
 
