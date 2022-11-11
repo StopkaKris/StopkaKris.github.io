@@ -4,7 +4,10 @@ title: "Conference presentations and talks"
 permalink: /presentations/
 author_profile: true
 ---
+  0. <span style="color:#9CD6D8">Examining the micromechanical response of additively manufactured Alloy 718 intentionally seeded with pores</span> 
 
+     <b>K. S. Stopka</b>, A. Desrosiers, T. Nicodemus, A. Andreaco, and M. D. Sangid. Presented at <span style="color:#9CD6D8">Workshop on High-Energy Diffraction Microscopy (HEDM) analysis using Microstructural Imaging using Diffraction Analysis Software (MIDAS)</span> in Lemont, IL on November 9<sup>th</sup>, 2022.
+	 
   0. <b>INVITED:</b> <span style="color:#9CD6D8">Micromechanical modeling of porosity defects in additively manufactured alloys</span> 
 
      <b>K. S. Stopka</b> and M. D. Sangid. Presented at the [2022 International Conference on Additive Manufacturing](https://amcoe.org/event/icam2022/) in Orlando, FL on November 3<sup>rd</sup>, 2022.
