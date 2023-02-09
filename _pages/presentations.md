@@ -4,6 +4,23 @@ title: "Conference presentations and talks"
 permalink: /presentations/
 author_profile: true
 ---
+
+  0. <b><u>UPCOMING</u></b>: <span style="color:#9CD6D8">Intentionally Seeding Pores in Laser Powder Bed Fusion IN718: Microstructure, Defects, and Fatigue</span> 
+
+     <b>K. S. Stopka</b>, A. Desrosiers, T. Nicodemus, N. Krutz, A. Andreaco, and M. D. Sangid. Presented at [The Minerals, Metals & Materials Society (TMS) 2023](https://www.tms.org/AnnualMeeting/TMS2023) in San Diego, CA on March 22<sup>nd</sup>, 2023.
+
+  0. <b><u>UPCOMING</u></b>: <span style="color:#9CD6D8">Modeling Fatigue Resistance in Additively Manufactured Alloys with Porosity Defects</span> 
+
+     <b>K. S. Stopka</b> and M. D. Sangid. Presented at [TMS 2023](https://www.tms.org/AnnualMeeting/TMS2023) in San Diego, CA on March 22<sup>nd</sup>, 2023.
+
+  0. <span style="color:#9CD6D8">Structural and fatigue analysis of a rotating detonation rocket engine</span> 
+
+     <b>K. S. Stopka</b>, J. Smallwood, A. Chokshi, S. D. Heister, and M. D. Sangid. Presented at the [2023 American Institute of Aeronautics and Astronautics (AIAA) SciTech Forum](https://www.aiaa.org/SciTech) in National Harbor, MD on January 26<sup>th</sup>, 2023.
+
+  0. <span style="color:#9CD6D8">Experimental validation of crystal plasticity models with additively manufactured defects</span> 
+
+     <b>K. S. Stopka</b> and M. D. Sangid. Presented at the 2023 AIAA [SciTech Forum](https://www.aiaa.org/SciTech) in National Harbor, MD on January 23<sup>rd</sup>, 2023.
+
   0. <span style="color:#9CD6D8">Examining the micromechanical response of additively manufactured Alloy 718 intentionally seeded with pores</span> 
 
      <b>K. S. Stopka</b>, A. Desrosiers, T. Nicodemus, A. Andreaco, and M. D. Sangid. Presented at <span style="color:#9CD6D8">Workshop on High-Energy Diffraction Microscopy (HEDM) analysis using Microstructural Imaging using Diffraction Analysis Software (MIDAS)</span> in Lemont, IL on November 9<sup>th</sup>, 2022.
@@ -30,7 +47,7 @@ author_profile: true
 
   0. <span style="color:#9CD6D8">Micromechanical modeling of porosity defects in additively manufactured alloys</span> 
 
-     <b>K. S. Stopka</b> and M. D. Sangid. Presented at [The Minerals, Metals & Materials Society (TMS) 2022](https://www.tms.org/AnnualMeeting/TMS2022) in Anaheim, CA on March 2<sup>nd</sup>, 2022.
+     <b>K. S. Stopka</b> and M. D. Sangid. Presented at [TMS 2022](https://www.tms.org/AnnualMeeting/TMS2022) in Anaheim, CA on March 2<sup>nd</sup>, 2022.
 
   0. <span style="color:#9CD6D8">Microstructure effects on the extreme value fatigue response of FCC metals and alloys: effects of sample size and grain neighborhood</span>
 

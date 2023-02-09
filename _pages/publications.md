@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+  0. [Modeling the statistical distribution of fatigue crack formation lifetime in large volumes of polycrystalline microstructures](https://doi.org/10.1016/j.actamat.2023.118715)
+
+     T. Gu, <b>K. S. Stopka</b>, C. Xu, and D. L. McDowell. Modeling the statistical distribution of fatigue crack formation lifetime in large volumes of polycrystalline microstructures. <i>Acta Mater.</i>, <b>247</b>, 118715 (2023)
+
   0. [Microstructure-sensitive modeling of surface roughness and notch effects on extreme value fatigue response](https://doi.org/10.1016/j.ijfatigue.2022.107295)
 
      <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Microstructure-sensitive modeling of surface roughness and notch effects on extreme value fatigue response. <i>Int. J. Fatigue</i>, <b>166</b>, 107295 (2023).
@@ -20,10 +24,6 @@ author_profile: true
   0. [Effects of boundary conditions on microstructure-sensitive fatigue crystal plasticity analysis](https://doi.org/10.1007/s40192-021-00219-2)
 
      <b>K. S. Stopka</b>, M. Yaghoobi, J. E. Allison, and D. L. McDowell. Effects of boundary conditions on microstructure-sensitive fatigue crystal plasticity analysis. <i>Integr. Mater. Manuf. Innov.</i>, <b>10</b>, 393–412 (2021)
-
-  0. [Integrated computational materials engineering workflows for microstructure-sensitive fatigue of advanced alloys](http://hdl.handle.net/1853/64725)
-
-     <b>K. S. Stopka</b>. Integrated computational materials engineering workflows for microstructure-sensitive fatigue of advanced alloys. (Georgia Institute of Technology, Atlanta, 2021)
 
   0. [PRISMS-Fatigue computational framework for fatigue analysis in polycrystalline metals and alloys](https://www.nature.com/articles/s41524-021-00506-8)
 
@@ -49,3 +49,23 @@ author_profile: true
 
      A. E. Tallman, <b>K. S. Stopka</b>, L. P. Swiler, Y. Wang, S. R. Kalidindi, and D. L. McDowell. Gaussian-Process-Driven Adaptive Sampling for Reduced-Order Modeling of Texture Effects in Polycrystalline Alpha-Ti. <i>JOM</i>, <b>71</b>, 2646-2656 (2019)
 {: reversed="reversed"}
+
+
+# Conference proceedings
+
+  0. [Structural and fatigue analysis of a rotating detonation rocket engine](https://doi.org/10.2514/6.2023-1869)
+
+     <b>K. S. Stopka</b>, J. Smallwood, A. Chokshi, S. D. Heister, and M. D. Sangid. Structural and fatigue analysis of a rotating detonation rocket engine. <i>American Institute of Aeronautics and Astronautics (AIAA) SciTech Forum</i> (2023)
+
+  0. [Microstructure-sensitive ICME workflows for fatigue critical applications](https://doi.org/10.1007/s11837-019-03553-1)
+
+     <b>K. S. Stopka</b>, G. Whelan, and D. L. McDowell. Microstructure-sensitive ICME workflows for fatigue critical applications. <i>Society of the Advancement of Material and Process Engineering (SAMPE)</i> (2019)
+{: reversed="reversed"}
+
+
+# Ph.D. Thesis
+
+[Integrated computational materials engineering workflows for microstructure-sensitive fatigue of advanced alloys](http://hdl.handle.net/1853/64725)
+
+<b>K. S. Stopka</b>. Integrated computational materials engineering workflows for microstructure-sensitive fatigue of advanced alloys. (Georgia Institute of Technology, Atlanta, 2021)
+
