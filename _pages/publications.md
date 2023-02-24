@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+  0. [Intentionally Seeding Pores in Additively Manufactured Alloy 718: Process Parameters, Microstructure, Defects, and Fatigue](https://doi.org/10.1016/j.addma.2023.103450)
+
+     <b>K. S. Stopka</b>, A. Desrosiers, T. Nicodemus, N. Krutz, A. Andreaco, and M. D. Sangid. Intentionally Seeding Pores in Additively Manufactured Alloy 718: Process Parameters, Microstructure, Defects, and Fatigue. <i>Addit. Manuf.</i>, <b>66</b>, 103450 (2023)
+
   0. [Modeling the statistical distribution of fatigue crack formation lifetime in large volumes of polycrystalline microstructures](https://doi.org/10.1016/j.actamat.2023.118715)
 
      T. Gu, <b>K. S. Stopka</b>, C. Xu, and D. L. McDowell. Modeling the statistical distribution of fatigue crack formation lifetime in large volumes of polycrystalline microstructures. <i>Acta Mater.</i>, <b>247</b>, 118715 (2023)
