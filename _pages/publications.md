@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+  0. [A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures](https://www.springer.com/journal/40192) (in review)
+
+     <b>K. S. Stopka</b>, A. Desrosiers, A. Andreaco, and M. D. Sangid. A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures. (in review)
+
+  0. [Modeling Fatigue Behavior of Additively Manufactured Alloys with an Emphasis on Pore Defect Morphology](https://doi.org/10.1016/j.jmps.2023.105429)
+
+     <b>K. S. Stopka</b> and M. D. Sangid. Modeling Fatigue Behavior of Additively Manufactured Alloys with an Emphasis on Pore Defect Morphology. <i>J. Mech. Phys. Solids</i>, <b>181</b>, 105429 (2023)
+
+  0. [Effect of sample size on the maximum value distribution of fatigue driving forces in metals and alloys](https://doi.org/10.1016/j.ijfatigue.2023.107853)
+
+     M. Yaghoobi, <b>K. S. Stopka</b>, D. L. McDowell, L. Graham-Brady, and K. Teferra. Effect of sample size on the maximum value distribution of fatigue driving forces in metals and alloys. <i>Int. J. Fatigue</i>, <b>176</b>, 107853 (2023)
+
   0. [Intentionally Seeding Pores in Additively Manufactured Alloy 718: Process Parameters, Microstructure, Defects, and Fatigue](https://doi.org/10.1016/j.addma.2023.103450)
 
      <b>K. S. Stopka</b>, A. Desrosiers, T. Nicodemus, N. Krutz, A. Andreaco, and M. D. Sangid. Intentionally Seeding Pores in Additively Manufactured Alloy 718: Process Parameters, Microstructure, Defects, and Fatigue. <i>Addit. Manuf.</i>, <b>66</b>, 103450 (2023)
