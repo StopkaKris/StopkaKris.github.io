@@ -7,7 +7,11 @@ author_profile: true
 
   0. [A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures](https://www.springer.com/journal/40192) (in review)
 
-     <b>K. S. Stopka</b>, A. Desrosiers, A. Andreaco, and M. D. Sangid. A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures. (in review)
+     <b>K. S. Stopka</b>, A. Desrosiers, A. Andreaco, and M. D. Sangid. A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures. <i>Integr. Mater. Manuf. Innov.</i>, (in review)
+
+  0. [Initializing intragranular residual stresses within statistically equivalent microstructures for crystal plasticity simulations](https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids) (in revision)
+
+     R. Bandyopadhyay, <b>K. S. Stopka</b> and M. D. Sangid. Initializing intragranular residual stresses within statistically equivalent microstructures for crystal plasticity simulations. <i>J. Mech. Phys. Solids</i>, (in revision)
 
   0. [Modeling Fatigue Behavior of Additively Manufactured Alloys with an Emphasis on Pore Defect Morphology](https://doi.org/10.1016/j.jmps.2023.105429)
 
