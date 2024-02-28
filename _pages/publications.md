@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-  0. [A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures](https://www.springer.com/journal/40192)
+  0. [A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures](https://doi.org/10.1007/s40192-024-00343-9)
 
-     <b>K. S. Stopka</b>, A. Desrosiers, A. Andreaco, and M. D. Sangid. A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures. <i>Integr. Mater. Manuf. Innov.</i>, (in revision)
+     <b>K. S. Stopka</b>, A. Desrosiers, A. Andreaco, and M. D. Sangid. A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures. <i>Integr. Mater. Manuf. Innov.</i>, (2024)
 
   0. [Initializing intragranular residual stresses within statistically equivalent microstructures for crystal plasticity simulations](https://doi.org/10.1016/j.jmps.2023.105529)
 
