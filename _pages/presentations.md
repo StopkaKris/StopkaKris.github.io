@@ -5,11 +5,11 @@ permalink: /presentations/
 author_profile: true
 ---
 
-  0. <b><u>UPCOMING</u></b>: <span style="color:#9CD6D8">Multimodal Characterization and Modeling of Additively Manufactured Alloys with Intentionally Seeded Pores</span> 
+  0. <span style="color:#9CD6D8">Multimodal Characterization and Modeling of Additively Manufactured Alloys with Intentionally Seeded Pores</span> 
 
      <b>K. S. Stopka</b>, Y. Sun, P. Kenesei, J-S. Park, J. Solano, A. Desrosiers, A. Andreaco, G. Lin, and M. D. Sangid. Presented at [The Minerals, Metals & Materials Society (TMS) 2024](https://www.tms.org/AnnualMeeting/TMS2024) in Orlando, FL on March 7<sup>th</sup>, 2024.
 
-  0. <b><u>UPCOMING</u></b>: <span style="color:#9CD6D8">Crystal Plasticity Fatigue Modeling of Additively Manufactured Materials with Various Pore Defect Morphology</span> 
+  0. <span style="color:#9CD6D8">Crystal Plasticity Fatigue Modeling of Additively Manufactured Materials with Various Pore Defect Morphology</span> 
 
      <b>K. S. Stopka</b> and M. D. Sangid. Presented at [TMS 2024](https://www.tms.org/AnnualMeeting/TMS2024) in Orlando, FL on March 5<sup>th</sup>, 2024.
 
