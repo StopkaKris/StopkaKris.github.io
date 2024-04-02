@@ -11,7 +11,7 @@ author_profile: true
 
 # Tech to Teaching at Georgia Tech
 
-I completed the [Tech to Teaching](https://ctl.gatech.edu/content/tech-teaching-0) program in Fall of 2020 at the [Georgia Institute of Technology](https://www.gatech.edu/). This multi-semester program prepares future faculty in pedagogy and course design and features a capstone teaching experience. The core components of the program are:
+I completed the [Tech to Teaching](https://ctl.gatech.edu/tech-teaching) program in Fall of 2020 at the [Georgia Institute of Technology](https://www.gatech.edu/). This multi-semester program prepares future faculty in pedagogy and course design and features a capstone teaching experience. The core components of the program are:
 
 * ### CETL 8713 Fundamentals of Teaching and Learning in Higher Education, Fall 2019
 
