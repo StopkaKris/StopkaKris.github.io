@@ -5,6 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
+  0. <span style="color:#9CD6D8">Scientific Examples and Demonstration of Fast Fourier Transform-based Simulations with X-ray Experiments to Explore Deformation and Fatigue in Structural Alloys</span> 
+
+     M. D. Sangid, <b>K. S. Stopka</b> and K. Jung (joint presentation). Presented at the [Advanced Photon Source Users Meeting](https://web.cvent.com/event/5afe434c-aae8-44ef-899b-69233f57da91/summary) in Lemont, IL on May 8<sup>th</sup>, 2024.
+
   0. <span style="color:#9CD6D8">Multimodal Characterization and Modeling of Additively Manufactured Alloys with Intentionally Seeded Pores</span> 
 
      <b>K. S. Stopka</b>, Y. Sun, P. Kenesei, J-S. Park, J. Solano, A. Desrosiers, A. Andreaco, G. Lin, and M. D. Sangid. Presented at [The Minerals, Metals & Materials Society (TMS) 2024](https://www.tms.org/AnnualMeeting/TMS2024) in Orlando, FL on March 7<sup>th</sup>, 2024.
