@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Krzysztof S. Stopka"
   avatar           : "c5_website.jpg"
-  bio              : "Research Engineer, Purdue University"
+  bio              : 
   location         : "Chicago, IL"
-  employer         :
+  employer         : "Purdue University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=gGfSDS8AAAAJ&hl=en"
   email            : "kstopka@purdue.edu"

@@ -5,6 +5,18 @@ permalink: /presentations/
 author_profile: true
 ---
 
+  0. <b><u>UPCOMING</u></b>: <span style="color:#9CD6D8">Synchrotron in situ characterization of fatigue crack initiation influenced by intentionally seeded porosity in an additively manufactured superalloy</span> 
+
+     <b>K. S. Stopka</b>, J. Solano, P. Kenesei, J-S. Park, H. Sharma, and M. D. Sangid. To be presented at [The Minerals, Metals & Materials Society (TMS) 2025](https://www.tms.org/TMS2025) in Las Vegas, NV in March 2025.
+	 
+  0. <b><u>UPCOMING</u></b>: <span style="color:#9CD6D8">Modeling fatigue crack initiation and propagation life in additively manufactured alloys across fatigue regimes</span> 
+
+     <b>K. S. Stopka</b> and M. D. Sangid. To be presented at [TMS 2025](https://www.tms.org/TMS2025) in Las Vegas, NV in March 2025.
+
+  0. <b><u>UPCOMING</u></b>: <span style="color:#9CD6D8">Fatigue Resistance of Aluminum Alloy Components Repaired Using Cold Spray</span> 
+
+     <b>K. S. Stopka</b>, P. E. Morrison, J. I. Ferguson, and M. D. Sangid. To be presented at [TMS 2025](https://www.tms.org/TMS2025) in Las Vegas, NV in March 2025.
+
   0. <span style="color:#9CD6D8">Rapid Qualification of Additively Manufactured Materials with Pore Defects</span> 
 
      <b>K. S. Stopka</b>, Y. Sun, P. Kenesei, J-S. Park, J. Solano, A. Desrosiers, A. Andreaco, G. Lin, and M. D. Sangid. Presented at the 2024 Future Leaders in Aerospace Symposium at Stanford, CA on May 17<sup>th</sup>, 2024.
@@ -15,7 +27,7 @@ author_profile: true
 
   0. <span style="color:#9CD6D8">Multimodal Characterization and Modeling of Additively Manufactured Alloys with Intentionally Seeded Pores</span> 
 
-     <b>K. S. Stopka</b>, Y. Sun, P. Kenesei, J-S. Park, J. Solano, A. Desrosiers, A. Andreaco, G. Lin, and M. D. Sangid. Presented at [The Minerals, Metals & Materials Society (TMS) 2024](https://www.tms.org/AnnualMeeting/TMS2024) in Orlando, FL on March 7<sup>th</sup>, 2024.
+     <b>K. S. Stopka</b>, Y. Sun, P. Kenesei, J-S. Park, J. Solano, A. Desrosiers, A. Andreaco, G. Lin, and M. D. Sangid. Presented at [TMS 2024](https://www.tms.org/AnnualMeeting/TMS2024) in Orlando, FL on March 7<sup>th</sup>, 2024.
 
   0. <span style="color:#9CD6D8">Crystal Plasticity Fatigue Modeling of Additively Manufactured Materials with Various Pore Defect Morphology</span> 
 

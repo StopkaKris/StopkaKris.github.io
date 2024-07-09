@@ -77,7 +77,7 @@ author_profile: true
 
      <b>K. S. Stopka</b>, J. Smallwood, A. Chokshi, S. D. Heister, and M. D. Sangid. Structural and fatigue analysis of a rotating detonation rocket engine. <i>American Institute of Aeronautics and Astronautics (AIAA) SciTech Forum</i> (2023)
 
-  0. [Microstructure-sensitive ICME workflows for fatigue critical applications](https://doi.org/10.1007/s11837-019-03553-1)
+  0. [Microstructure-sensitive ICME workflows for fatigue critical applications](https://www.researchgate.net/publication/332385820_Microstructure-Sensitive_ICME_Workflows_for_Fatigue_Critical_Applications)
 
      <b>K. S. Stopka</b>, G. Whelan, and D. L. McDowell. Microstructure-sensitive ICME workflows for fatigue critical applications. <i>Society of the Advancement of Material and Process Engineering (SAMPE)</i> (2019)
 {: reversed="reversed"}
