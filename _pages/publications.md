@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+  0. [Evaluating the damage tolerant behavior of cold spray repaired aluminum alloys](https://doi.org/10.1016/j.ijfatigue.2024.108607)
+
+     P. E. Morrison, <b>K. S. Stopka</b>, J. I. Ferguson, and M. D. Sangid. Evaluating the damage tolerant behavior of cold spray repaired aluminum alloys. <i>Int. J. Fatigue</i>, <b>190</b>, 108607 (2025)
+
   0. [A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures](https://doi.org/10.1007/s40192-024-00343-9)
 
      <b>K. S. Stopka</b>, A. Desrosiers, A. Andreaco, and M. D. Sangid. A Methodology for the Rapid Qualification of Additively Manufactured Materials Based on Pore Defect Structures. <i>Integr. Mater. Manuf. Innov.</i>, <b>13</b>, 335-359 (2024)
