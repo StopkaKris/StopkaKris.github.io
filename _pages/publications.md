@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+  0. Pore defects’ influence on the near threshold fatigue crack growth behavior of additively manufactured Ti-6Al-4V
+
+     L. Loiodice, <b>K. S. Stopka</b>, and M. D. Sangid. Pore defects’ influence on the near threshold fatigue crack growth behavior of additively manufactured Ti-6Al-4V. <i>In revision.</i>
+
   0. [Evaluating the damage tolerant behavior of cold spray repaired aluminum alloys](https://doi.org/10.1016/j.ijfatigue.2024.108607)
 
      P. E. Morrison, <b>K. S. Stopka</b>, J. I. Ferguson, and M. D. Sangid. Evaluating the damage tolerant behavior of cold spray repaired aluminum alloys. <i>Int. J. Fatigue</i>, <b>190</b>, 108607 (2025)
