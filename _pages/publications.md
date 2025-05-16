@@ -5,9 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-  0. Pore defects’ influence on the near threshold fatigue crack growth behavior of additively manufactured Ti-6Al-4V
+  0. Modeling the Influence of Hydrogen on Ni201 Plastic Behavior through Integration of Experimental Observations and Multiobjective Optimization
 
-     L. Loiodice, <b>K. S. Stopka</b>, and M. D. Sangid. Pore defects’ influence on the near threshold fatigue crack growth behavior of additively manufactured Ti-6Al-4V. <i>In revision.</i>
+     L. Zisis, <b>K. S. Stopka</b>, M. I. Alam, Z. D. Harris, and M. D. Sangid. Modeling the Influence of Hydrogen on Ni201 Plastic Behavior through Integration of Experimental Observations and Multiobjective Optimization. (in review)
+
+  0. Identifying the quantitative precursors to ductile failure via void nucleation and coalescence
+
+     J. Solano, S. E. Gustafson, P. J. Noell, <b>K. S. Stopka</b>, J-S. Park, P. Kenesei, K. Johnson, and M. D. Sangid. Identifying the quantitative precursors to ductile failure via void nucleation and coalescence. (in revision)
+
+  0. [Pore defects’ influence on the local, near threshold fatigue crack growth behavior of additively manufactured Ti-6Al-4V](https://doi.org/10.1016/j.jmps.2025.106173)
+
+     L. Loiodice, <b>K. S. Stopka</b>, and M. D. Sangid. Pore defects’ influence on the local, near threshold fatigue crack growth behavior of additively manufactured Ti-6Al-4V. <i>J. Mech. Phys. Solids</i>, <b>202</b>, 106173 (2025)
 
   0. [Evaluating the damage tolerant behavior of cold spray repaired aluminum alloys](https://doi.org/10.1016/j.ijfatigue.2024.108607)
 
