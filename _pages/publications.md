@@ -5,13 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+Summary: 10 first-author, 12 co-author
+
+  0. Experimental and microstructure sensitive fatigue modeling of the effects of periodic dwell and overload on additively manufactured Ti-6Al-4V
+
+     H. Gaddam, T. A. Hodes, <b>K. S. Stopka</b>, and M. D. Sangid. Experimental and microstructure sensitive fatigue modeling of the effects of periodic dwell and overload on additively manufactured Ti-6Al-4V. (in review)
+
+  0. A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue
+
+     <b>K. S. Stopka</b> and M. D. Sangid. A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue. (in review)
+
   0. Modeling the Influence of Hydrogen on Ni201 Plastic Behavior through Integration of Experimental Observations and Multiobjective Optimization
 
-     L. Zisis, <b>K. S. Stopka</b>, M. I. Alam, Z. D. Harris, and M. D. Sangid. Modeling the Influence of Hydrogen on Ni201 Plastic Behavior through Integration of Experimental Observations and Multiobjective Optimization. (in review)
+     L. Zisis, <b>K. S. Stopka</b>, M. I. Alam, Z. D. Harris, and M. D. Sangid. Modeling the Influence of Hydrogen on Ni201 Plastic Behavior through Integration of Experimental Observations and Multiobjective Optimization. (in revision)
 
-  0. Identifying the quantitative precursors to ductile failure via void nucleation and coalescence
+  0. [Quantifying precursors to void nucleation and coalescence in Aluminum](https://doi.org/10.1016/j.actamat.2025.121295)
 
-     J. Solano, S. E. Gustafson, P. J. Noell, <b>K. S. Stopka</b>, J-S. Park, P. Kenesei, K. Johnson, and M. D. Sangid. Identifying the quantitative precursors to ductile failure via void nucleation and coalescence. (in revision)
+     J. Solano, S. E. Gustafson, P. J. Noell, <b>K. S. Stopka</b>, J-S. Park, P. Kenesei, K. Johnson, and M. D. Sangid. Quantifying precursors to void nucleation and coalescence in Aluminum. <i>Acta Mater.</i>, <b>296</b>, 121295 (2025)
 
   0. [Pore defects’ influence on the local, near threshold fatigue crack growth behavior of additively manufactured Ti-6Al-4V](https://doi.org/10.1016/j.jmps.2025.106173)
 

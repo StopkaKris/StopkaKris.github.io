@@ -5,6 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
+  0. <span style="color:#9CD6D8">A unified microstructure-sensitive model across low and high cycle fatigue for additively manufactured IN718</span> 
+
+     <b>K. S. Stopka</b> and M. D. Sangid. Poster presented at the [International Symposium on Advances in Metallurgy](https://www.imperial.ac.uk/engineering-alloys/international-symposium-on-advances-in-metallurgy/) in London, England on July 4, 2025.
+
   0. <span style="color:#9CD6D8">Synchrotron in situ characterization of fatigue crack initiation influenced by intentionally seeded porosity in an additively manufactured superalloy</span> 
 
      <b>K. S. Stopka</b>, J. Solano, P. Kenesei, J-S. Park, H. Sharma, and M. D. Sangid. Presented at [The Minerals, Metals & Materials Society (TMS) 2025](https://www.tms.org/TMS2025) in Las Vegas, NV on March 26, 2025.
