@@ -13,4 +13,4 @@ redirect_from:
 
 <iframe src="/files/Krzysztof_Stopka_CV_September_2025_public.pdf" width="100%" height="1400" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Updated July 2025. You can download a PDF copy of my CV [here](/files/Krzysztof_Stopka_CV_September_2025_public.pdf).
+Updated September 2025. You can download a PDF copy of my CV [here](/files/Krzysztof_Stopka_CV_September_2025_public.pdf).
