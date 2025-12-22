@@ -7,14 +7,10 @@ author_profile: true
 
 Summary: 10 first-author, 13 co-author
 
-  0. A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue
+  0. [A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue](https://doi.org/10.1016/j.matdes.2025.115382)
 
-     <b>K. S. Stopka</b> and M. D. Sangid. A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue. (in review)
-
-  0. A framework for fast microstructure-sensitive fatigue life predictions
-
-     L. Loiodice, <b>K. S. Stopka</b>, and M. D. Sangid. A framework for fast microstructure-sensitive fatigue life predictions. (in revision)
-
+     <b>K. S. Stopka</b> and M. D. Sangid. A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue. <i>J. Mech. Phys. Solids</i>, <b>261</b>, 115283 (2026)
+	 
   0. [Experimental and microstructure sensitive fatigue modeling of the effects of periodic dwell and overload on additively manufactured Ti-6Al-4V](https://doi.org/10.1016/j.ijfatigue.2025.109299)
 
      H. Gaddam, T. A. Hodes, <b>K. S. Stopka</b>, and M. D. Sangid. Experimental and microstructure sensitive fatigue modeling of the effects of periodic dwell and overload on additively manufactured Ti-6Al-4V. <i>Int. J. Fatigue</i>, <b>203</b>, 109299 (2026)
@@ -22,6 +18,10 @@ Summary: 10 first-author, 13 co-author
   0. [Modeling the Influence of Hydrogen on Ni201 Plastic Behavior through Integration of Experimental Observations and Multiobjective Optimization](https://doi.org/10.1016/j.jmps.2025.106345)
 
      L. Zisis, <b>K. S. Stopka</b>, M. I. Alam, Z. D. Harris, and M. D. Sangid. Modeling the Influence of Hydrogen on Ni201 Plastic Behavior through Integration of Experimental Observations and Multiobjective Optimization. <i>J. Mech. Phys. Solids</i>, <b>206</b>, 106345 (2026)
+
+  0. [A framework for fast microstructure-sensitive fatigue life predictions](https://doi.org/10.1002/adem.202502138)
+
+     L. Loiodice, <b>K. S. Stopka</b>, and M. D. Sangid. A framework for fast microstructure-sensitive fatigue life predictions.  <i>Adv. Eng. Mater.</i>, e202502138 (2025)
 
   0. [Quantifying precursors to void nucleation and coalescence in Aluminum](https://doi.org/10.1016/j.actamat.2025.121295)
 
