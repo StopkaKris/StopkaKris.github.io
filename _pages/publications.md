@@ -9,7 +9,7 @@ Summary: 10 first-author, 13 co-author
 
   0. [A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue](https://doi.org/10.1016/j.matdes.2025.115382)
 
-     <b>K. S. Stopka</b> and M. D. Sangid. A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue. <i>J. Mech. Phys. Solids</i>, <b>261</b>, 115382 (2026)
+     <b>K. S. Stopka</b> and M. D. Sangid. A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue. <i>Mater. Des.</i>, <b>261</b>, 115382 (2026)
 	 
   0. [Experimental and microstructure sensitive fatigue modeling of the effects of periodic dwell and overload on additively manufactured Ti-6Al-4V](https://doi.org/10.1016/j.ijfatigue.2025.109299)
 
