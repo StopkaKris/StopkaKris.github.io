@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Summary: 10 first-author, 13 co-author
+Summary: 11 first-author, 15 co-author
 
   0. Element formulation sensitivity on fatigue damage predictions using crystal plasticity finite element simulations
 
