@@ -7,6 +7,10 @@ author_profile: true
 
 Summary: 11 first-author, 15 co-author
 
+  0. A comprehensive methodology for predicting microstructurally small fatigue crack growth behavior and life
+
+     <b>K. S. Stopka</b>, M. D. Sangid. A comprehensive methodology for predicting microstructurally small fatigue crack growth behavior and life. (in review)
+
   0. Element formulation sensitivity on fatigue damage predictions using crystal plasticity finite element simulations
 
      H. Gaddam, <b>K. S. Stopka</b>, M. D. Sangid. Element formulation sensitivity on fatigue damage predictions using crystal plasticity finite element simulations. (in revision)
