@@ -5,15 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-Summary: 11 first-author, 15 co-author
+Summary: 12 first-author, 16 co-author
+
+  0. Developing microstructure-sensitive fatigue crack initiation models with sparse training data using scientific machine learning
+
+     J. Merrell, D. Birky, <b>K. S. Stopka</b>, M. D. Sangid, J. Hochhalter. Developing microstructure-sensitive fatigue crack initiation models with sparse training data using scientific machine learning. (in review)
 
   0. A comprehensive methodology for predicting microstructurally small fatigue crack growth behavior and life
 
      <b>K. S. Stopka</b>, M. D. Sangid. A comprehensive methodology for predicting microstructurally small fatigue crack growth behavior and life. (in review)
 
-  0. Element formulation sensitivity on fatigue damage predictions using crystal plasticity finite element simulations
+  0. [Assessment of element type on fatigue damage prediction using crystal plasticity finite element simulations](https://doi.org/10.1007/s00466-026-02843-1)
 
-     H. Gaddam, <b>K. S. Stopka</b>, M. D. Sangid. Element formulation sensitivity on fatigue damage predictions using crystal plasticity finite element simulations. (in revision)
+     H. Gaddam, <b>K. S. Stopka</b>, M. D. Sangid. Assessment of element type on fatigue damage prediction using crystal plasticity finite element simulations. <i>Comput. Mech.</i> (2026)
 
   0. [Micromechanical and fatigue in situ synchrotron characterization of an additively manufactured superalloy with porosity](https://doi.org/10.1016/j.addma.2026.105260)
 
@@ -21,7 +25,7 @@ Summary: 11 first-author, 15 co-author
 
   0. [Grain-level micromechanical modeling and assessment of fatigue-critical pores using graph neural networks](https://doi.org/10.1038/s41524-026-02148-0)
 
-     L. Loiodice, <b>K. S. Stopka</b>, Y. Sun, G. Lin, M. D. Sangid. Grain-level micromechanical modeling and assessment of fatigue-critical pores using graph neural networks. <i>npj Comput. Mater.</i>, <b>X</b>, XX (2026)
+     L. Loiodice, <b>K. S. Stopka</b>, Y. Sun, G. Lin, M. D. Sangid. Grain-level micromechanical modeling and assessment of fatigue-critical pores using graph neural networks. <i>npj Comput. Mater.</i>, <b>12</b>, 275 (2026)
 
   0. [A unified model for microstructure-sensitive fatigue crack initiation across low and high cycle fatigue](https://doi.org/10.1016/j.matdes.2025.115382)
 
