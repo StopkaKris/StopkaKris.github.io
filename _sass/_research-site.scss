@@ -31,6 +31,7 @@ $research-accent-warm: #f0b44d;
   a {
     color: $research-copy;
     font-weight: 600;
+	background: transparent;
   }
 
   .visible-links a::before {
