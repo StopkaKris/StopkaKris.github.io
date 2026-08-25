@@ -1,34 +1,30 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching & Mentoring"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
+I approach teaching as an opportunity to help students connect physical intuition, mathematical models, computational tools, and experimental evidence. I value learner-centered course design, transparent expectations, frequent formative feedback, and assignments that ask students to make and defend engineering decisions.
 
+## Teaching interests
 
+I am prepared to contribute to undergraduate and graduate instruction in mechanics of materials, fatigue and fracture, computational mechanics, materials science, additive manufacturing, and data-driven engineering. I am especially interested in developing courses that integrate computational modeling with real experimental datasets.
 
+## Teaching preparation and experience
 
-# Tech to Teaching at Georgia Tech
+### Tech to Teaching at Georgia Tech
 
-I completed the [Tech to Teaching](https://ctl.gatech.edu/tech-teaching) program in Fall of 2020 at the [Georgia Institute of Technology](https://www.gatech.edu/). This multi-semester program prepares future faculty in pedagogy and course design and features a capstone teaching experience. The core components of the program are:
+I completed the [Tech to Teaching](https://ctl.gatech.edu/tech-teaching) program at the Georgia Institute of Technology in Fall 2020. This multi-semester program prepares future faculty in evidence-based pedagogy and course design and culminates in a mentored teaching experience.
 
-* ### CETL 8713 Fundamentals of Teaching and Learning in Higher Education, Fall 2019
+- **CETL 8713: Fundamentals of Teaching and Learning in Higher Education** — explored learner-centered teaching and research on how people learn.
+- **CETL 8717: Course Design for Higher Education** — applied backward design to develop a syllabus, assessment plan, lessons, and assignments.
+- **CETL 8718: Teaching Capstone** — delivered multiple lectures for ME 7772: Fundamentals of Fracture Mechanics under the advisement of Dr. Shuman Xia.
 
-   In this highly interactive and practical course, graduate students explore and apply principles of learner-centered teaching that are based on the research about how people learn. Through readings, lectures, activities, practice, and peer review, students explore the principles of good teaching.
+### Teaching Practicum at Georgia Tech
 
-* ### CETL 8717 Course Design for Higher Education, Spring 2020
+As part of the Teaching Practicum in the [Woodruff School of Mechanical Engineering](https://www.me.gatech.edu/), I worked with Dr. Richard Neu in the graduate course ME 7774: Fatigue of Materials and Structures during Spring 2019. I delivered three lectures, held office hours, graded assignments, and proctored examinations.
 
-  In a well-designed course, instructors start with the end in mind as they make decisions about what and how to teach to support student learning. In this course, students learn the skills of backward design as they build their own course. Students’ portfolios include a syllabus, assessment plan, sample lessons and assignments, and additional exposure to learner-centered teaching techniques that demonstrate their ability to design future curriculum.
+## Mentorship
 
-* ### CETL 8718 Teaching Capstone, Fall 2020
-
-  The Tech to Teaching Capstone is a mentored teaching experience for participants who have completed the foundation level learning outcomes through the two courses described above. Working with a faculty mentor, participants gain insight into the realities of teaching a college course by serving as a co-instructor or instructor-of-record. In addition to teaching, participants engage with peers in a weekly seminar to gather feedback, reflect on their teaching, learn about academic life at different types of institutions, and finalize their teaching philosophy statement. 
-  
-  During this capstone experience, I delivered multiple lectures for the course ME 7772: Fundamentals of Fracture Mechanics under the advisement of Dr. Shuman Xia
-  
-  
-  
-# Teaching Practicum at Georgia Tech
-
-* As part of the Teaching Practicum in the [Woodruff School of Mechanical Engineering](http://me.gatech.edu/) at Georgia Tech, I worked with Dr. Richard Neu to teach the graduate course ME 7774: Fatigue of Materials and Structures during the Spring of 2019. I delivered three lectures, held office hours, graded homework assignments, and proctored exams.
+Mentorship is central to my professional work. I aim to give early-career researchers enough structure to make progress while progressively transferring ownership of technical decisions. My goal is for students to develop not only research skills, but also the judgment, communication habits, and confidence needed to become independent engineers and scientists.

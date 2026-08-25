@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Krzysztof S. Stopka"
 title_separator          : "-"
 name                     : &name "Krzysztof S. Stopka"
-description              : &description "personal description"
+description              : &description "Computational materials scientist studying fatigue, additive manufacturing, microstructure, and data-driven materials qualification."
 url                      : https://StopkaKris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "StopkaKris/StopkaKris.github.io"
@@ -65,13 +65,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/Krzysztof_stopka_headshot.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Krzysztof S. Stopka"
+  links:
+    - "https://scholar.google.com/citations?user=gGfSDS8AAAAJ&hl=en"
+    - "https://www.linkedin.com/in/stopkakrzysztof"
+    - "https://orcid.org/0000-0001-9194-5314"
 
 
 # Analytics

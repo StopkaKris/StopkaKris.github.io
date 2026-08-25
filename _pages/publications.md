@@ -2,7 +2,7 @@
 layout: archive
 title: "Peer-reviewed publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 Summary: 12 first-author, 16 co-author
@@ -138,4 +138,3 @@ Summary: 12 first-author, 16 co-author
 [Integrated computational materials engineering workflows for microstructure-sensitive fatigue of advanced alloys](http://hdl.handle.net/1853/64725)
 
 <b>K. S. Stopka</b>. Integrated computational materials engineering workflows for microstructure-sensitive fatigue of advanced alloys. (Georgia Institute of Technology, Atlanta, 2021)
-

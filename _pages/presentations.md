@@ -2,7 +2,7 @@
 layout: archive
 title: "Conference presentations and talks"
 permalink: /presentations/
-author_profile: true
+author_profile: false
 ---
 
   0. <span style="color:#9CD6D8">A unified microstructure-sensitive model across low and high cycle fatigue for additively manufactured IN718</span> 
