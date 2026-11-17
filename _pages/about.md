@@ -13,7 +13,7 @@ author_profile: false
     <p class="home-lede">I combine microstructure-sensitive modeling, in situ synchrotron experiments, and scientific machine learning to understand fatigue and accelerate the qualification of additively manufactured materials.</p>
     <div class="home-actions">
       <a class="site-cta site-cta--primary" href="{{ '/research/' | relative_url }}">Explore my research</a>
-      <a class="site-cta" href="{{ '/files/Krzysztof_Stopka_CV_August_2026_public.pdf' | relative_url }}">Download CV</a>
+      <a class="site-cta" href="{{ '/files/Krzysztof_Stopka_CV_November_2026_public.pdf' | relative_url }}">Download CV</a>
     </div>
   </div>
 
