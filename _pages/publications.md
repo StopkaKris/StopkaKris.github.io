@@ -7,13 +7,13 @@ author_profile: false
 
 Summary: 12 first-author, 16 co-author
 
-  0. Developing microstructure-sensitive fatigue crack initiation models with sparse training data using scientific machine learning
+  0. [Developing microstructure-sensitive fatigue crack initiation models with sparse training data using scientific machine learning](https://doi.org/10.1016/j.ijfatigue.2026.110057)
 
-     J. Merrell, D. Birky, <b>K. S. Stopka</b>, M. D. Sangid, J. Hochhalter. Developing microstructure-sensitive fatigue crack initiation models with sparse training data using scientific machine learning. (in review)
+     J. Merrell, D. Birky, <b>K. S. Stopka</b>, M. D. Sangid, J. Hochhalter. Developing microstructure-sensitive fatigue crack initiation models with sparse training data using scientific machine learning. <i>Int. J. Fatigue</i>, <b>216</b>, 110057 (2027)
 
-  0. A comprehensive methodology for predicting microstructurally small fatigue crack growth behavior and life
+  0. [A comprehensive methodology for predicting microstructurally small fatigue crack growth behavior and life](https://doi.org/10.1016/j.jmps.2026.106915)
 
-     <b>K. S. Stopka</b>, M. D. Sangid. A comprehensive methodology for predicting microstructurally small fatigue crack growth behavior and life. (in review)
+     <b>K. S. Stopka</b>, M. D. Sangid. A comprehensive methodology for predicting microstructurally small fatigue crack growth behavior and life. <i>J. Mech. Phys. Solids</i>, <b>219</b>, 106915 (2027)
 
   0. [Assessment of element type on fatigue damage prediction using crystal plasticity finite element simulations](https://doi.org/10.1007/s00466-026-02843-1)
 
